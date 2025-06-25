@@ -1,6 +1,6 @@
 # Página Educacional: Como surgiu o mascote do Android?
 
-Este projeto é uma página HTML/CSS desenvolvida como parte de um projeto educacional a proposta é apresentar de forma visual e informativa a **história do mascote do Android**.
+Este projeto é uma página HTML/CSS desenvolvida como parte de um projeto educacional. A proposta é apresentar de forma visual e informativa a **história do mascote do Android**.
 
 ## 📸 Demonstração
 
