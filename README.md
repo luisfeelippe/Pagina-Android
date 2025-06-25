@@ -10,7 +10,7 @@ Acesse a página publicada: [🔗 Link para visualização](https://luisfeelippe
 
 ## 🚀 Funcionalidades
 
-* Layout responsivo com `<picture>`
+* Layout responsivo
 * Estilização com variáveis CSS e fontes personalizadas
 * Inclusão de vídeo do YouTube com embed responsivo
 * Design organizado com uso de `<header>`, `<nav>`, `<main>`, `<article>`, `<aside>`, `<footer>`
@@ -60,5 +60,5 @@ projeto-android/
 
 ## 🎓 Créditos
 
-* Projeto baseado no curso [Curso em Vídeo - HTML5 e CSS3 - Módulo 02](https://www.youtube.com/cursoemvideo)
+* Projeto desenvolvido no curso [Curso em Vídeo - HTML5 e CSS3 - Módulo 02](https://www.youtube.com/cursoemvideo)
 * Ilustrações e ideias retiradas do conteúdo didático do curso
