@@ -8,13 +8,6 @@ Acesse a página publicada: [🔗 Link para visualização](https://luisfeelippe
 
 ---
 
-## 📸 Demonstração
-
-👉 Acesse a página publicada:  
-[🔗 Link para visualização (abre em nova aba)](https://luisfeelippe.github.io/Pagina-Android/Android.html)
-
----
-
 
 ## 🚀 Funcionalidades
 
